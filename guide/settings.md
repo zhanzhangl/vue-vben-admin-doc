@@ -24,7 +24,7 @@
 console.log(import.meta.env.VITE_PROT);
 ```
 
-- 以 `VITE_GLOB_*` 开头的的变量，在打包的时候，会被加入[\_app.config.js](#生产环境动态配置)配置文件当中.
+- 以 `VITE_GLOB_*` 开头的变量，在打包的时候，会被加入[\_app.config.js](#生产环境动态配置)配置文件当中.
 
 :::
 
